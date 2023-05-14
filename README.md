@@ -53,7 +53,7 @@ arguments:
 
 example:
   Run cv3 in the HMDAD database:
-  python main.py --cvs 3 --dataset_name "HMDAD"
+    python main.py --cvs 3 --dataset_name "HMDAD"
   Run cv2 in the Disbiome database:
-  python main.py --cvs 2 --dataset_name "Disbiome"
+    python main.py --cvs 2 --dataset_name "Disbiome"
 ```
